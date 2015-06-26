@@ -1,1 +1,25 @@
 /*font-family: 'Ubuntu', sans-serif;*/
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 180%;
+}
+
+#topContainer {
+    height: 400px;
+    background-image: url("../img/sunset.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 -100px;
+}
+
+#topRow {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#topRow h1 {
+    font-size: 300%;
+}
